@@ -32,7 +32,7 @@ Game Boy:
 * Pinball Mania
 * Speedball 2: Brutal Deluxe
 * Street Racer
-* Tarzan
+* Tarzan (GB)
 * Waterworld
 * Yogi Bear's Gold Rush
 
